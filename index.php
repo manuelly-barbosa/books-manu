@@ -71,7 +71,7 @@
             ?>
             <section class="d-flex">
                 <div class="livro-imagem">
-                    <img src="img/livro.webp" alt="Imagem do livro">
+                    <img src="livro.webp" alt="Imagem do livro">
                 </div>
                 <div class="livro-contexto">
                     <p class="livro-dados">
