@@ -54,7 +54,7 @@
         </form>
         <div id="livros">
             <?php
-            require_once "model/Conexao.php";
+            require_once "Conexao.php";
 
             $sql = "select * from book;";
 
